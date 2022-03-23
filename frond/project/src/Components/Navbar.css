@@ -1,0 +1,27 @@
+
+.app-header{
+    
+    color: white;
+    padding: 10px;
+    top:0;
+    left: 0;
+    position: relative;
+    top: -8px;
+    left: -8px;
+    width: 100%;
+
+}
+.app-header .header-title{
+    
+    font-weight: bold;
+}
+.app-header span{
+    padding-right: 30px;
+}
+.app{
+    width: 100%;
+    background-color: rgb(176, 164, 240);
+}
+body{
+    padding: 0;
+}
